@@ -1,0 +1,9 @@
+.aim-show-ad .aimlist-panel {
+  bottom: 0px !important;
+}
+#client-container-ad {
+  display: none !important;
+}
+.feedback-item {
+  display: none !important;
+}

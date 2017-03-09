@@ -1,0 +1,23 @@
+{
+  "name": "aim",
+  "version": "0.9.8",
+  "description": "AIM Client",
+  "main": "index.js",
+  "author": "Brian Shensky <bshensky@struction.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "http://www.aim.com/popup",
+    "serviceName": "AIM",
+    "message": "Access to AOL Instant Messenger (AIM) Web Client",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
