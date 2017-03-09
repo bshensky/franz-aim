@@ -1,6 +1,6 @@
 # AIM for Franz
 
-A service to receive AIM notifications in [Franz] (http://meetfranz.com/)
+A service to connect to AIM (AOL Instant Messenger) in [Franz] (http://meetfranz.com/)
 
 
 ## Installation
@@ -21,3 +21,6 @@ A service to receive AIM notifications in [Franz] (http://meetfranz.com/)
 ## License
 
 AIM for Franz is licensed under [The MIT License (MIT)](LICENSE.md). 
+
+AIM is a trademark of AOL.
+
