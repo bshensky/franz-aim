@@ -10,7 +10,7 @@
     "serviceName": "AIM",
     "message": "Access to AOL Instant Messenger (AIM) Web Client",
     "popup": [],
-    "hasNotificationSound": true,
+    "hasNotificationSound": false,
     "hasIndirectMessages": false,
     "hasTeamID": false,
     "customURL": false,
